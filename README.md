@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I am a Student of Applied Mathematics, here to share some code.
+I am a Research Assistant in Statistics. Just sharing some fun projects with you. 
 <!--
 **Tienstra/Tienstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
