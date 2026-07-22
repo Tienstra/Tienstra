@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Research Assistant (Phd Student) in Statistics. I am currently funded by the SFB 1294. 
+I am a Post-doc at INSA-IMT Toulouse in Information Statistics.  
 <!--
 **Tienstra/Tienstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
